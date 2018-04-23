@@ -7,9 +7,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EWallet", "EWallet\EWallet.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EWallet_ClassLibrary", "EWallet_ClassLibrary\EWallet_ClassLibrary.csproj", "{5F08D207-9001-4EE7-8F3B-DD3774128883}"
 EndProject
-Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "EWallet_Database", "..\..\Semester 1\Programming\Week 6\E-Wallet\E-Wallet_Database\EWallet_Database.sqlproj", "{6EAD2A8C-2DD1-425F-A675-F5702C44BBCB}"
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "EWalletDatabase", "EWalletDatabase\EWalletDatabase.sqlproj", "{324BCF31-8B74-43F3-91BB-85C5E9A77AC4}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EWalletAPI", "..\..\Semester 1\Programming\Week 6\E-Wallet\E-Wallet\EWalletAPI.csproj", "{4A4BA9B9-DB5A-409E-997C-8CCDD6D51E18}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EWallet_API", "EWallet_API\EWallet_API.csproj", "{D179EBEA-6054-4907-A275-41169EFD8E87}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,16 +25,16 @@ Global
 		{5F08D207-9001-4EE7-8F3B-DD3774128883}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F08D207-9001-4EE7-8F3B-DD3774128883}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F08D207-9001-4EE7-8F3B-DD3774128883}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6EAD2A8C-2DD1-425F-A675-F5702C44BBCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6EAD2A8C-2DD1-425F-A675-F5702C44BBCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6EAD2A8C-2DD1-425F-A675-F5702C44BBCB}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
-		{6EAD2A8C-2DD1-425F-A675-F5702C44BBCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6EAD2A8C-2DD1-425F-A675-F5702C44BBCB}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6EAD2A8C-2DD1-425F-A675-F5702C44BBCB}.Release|Any CPU.Deploy.0 = Release|Any CPU
-		{4A4BA9B9-DB5A-409E-997C-8CCDD6D51E18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4A4BA9B9-DB5A-409E-997C-8CCDD6D51E18}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4A4BA9B9-DB5A-409E-997C-8CCDD6D51E18}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4A4BA9B9-DB5A-409E-997C-8CCDD6D51E18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{324BCF31-8B74-43F3-91BB-85C5E9A77AC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{324BCF31-8B74-43F3-91BB-85C5E9A77AC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{324BCF31-8B74-43F3-91BB-85C5E9A77AC4}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{324BCF31-8B74-43F3-91BB-85C5E9A77AC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{324BCF31-8B74-43F3-91BB-85C5E9A77AC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{324BCF31-8B74-43F3-91BB-85C5E9A77AC4}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{D179EBEA-6054-4907-A275-41169EFD8E87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D179EBEA-6054-4907-A275-41169EFD8E87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D179EBEA-6054-4907-A275-41169EFD8E87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D179EBEA-6054-4907-A275-41169EFD8E87}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

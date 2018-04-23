@@ -8,8 +8,6 @@ namespace EWallet_ClassLibrary
 {
     public class Account
     {
-        
-
         public int acctNumber { get; set; }
         public string acctPassword { get; set; }
         public string acctUserName { get; set; }

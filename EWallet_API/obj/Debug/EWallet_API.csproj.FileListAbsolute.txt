@@ -1,0 +1,2 @@
+C:\Users\STUDENT\Desktop\EWallet\EWallet_API\obj\Debug\EWallet_API.csprojResolveAssemblyReference.cache
+C:\Users\STUDENT\Desktop\EWallet\EWallet_API\obj\Debug\EWallet_API.csproj.CoreCompileInputs.cache
