@@ -1,0 +1,81 @@
+F:\Swinburne 2018\Programming\TeamProjectNew\EWallet\EWallet\bin\Debug\EWallet.exe.config
+F:\Swinburne 2018\Programming\TeamProjectNew\EWallet\EWallet\bin\Debug\EWallet.exe
+F:\Swinburne 2018\Programming\TeamProjectNew\EWallet\EWallet\bin\Debug\EWallet.pdb
+F:\Swinburne 2018\Programming\TeamProjectNew\EWallet\EWallet\obj\Debug\EWallet.csprojResolveAssemblyReference.cache
+F:\Swinburne 2018\Programming\TeamProjectNew\EWallet\EWallet\obj\Debug\EWalletHome.g.cs
+F:\Swinburne 2018\Programming\TeamProjectNew\EWallet\EWallet\obj\Debug\EWalletLogin.g.cs
+F:\Swinburne 2018\Programming\TeamProjectNew\EWallet\EWallet\obj\Debug\MainWindow.g.cs
+F:\Swinburne 2018\Programming\TeamProjectNew\EWallet\EWallet\obj\Debug\App.g.cs
+F:\Swinburne 2018\Programming\TeamProjectNew\EWallet\EWallet\obj\Debug\EWallet_MarkupCompile.cache
+F:\Swinburne 2018\Programming\TeamProjectNew\EWallet\EWallet\obj\Debug\EWallet_MarkupCompile.lref
+F:\Swinburne 2018\Programming\TeamProjectNew\EWallet\EWallet\obj\Debug\EWalletHome.baml
+F:\Swinburne 2018\Programming\TeamProjectNew\EWallet\EWallet\obj\Debug\EWalletLogin.baml
+F:\Swinburne 2018\Programming\TeamProjectNew\EWallet\EWallet\obj\Debug\MainWindow.baml
+F:\Swinburne 2018\Programming\TeamProjectNew\EWallet\EWallet\obj\Debug\EWallet.g.resources
+F:\Swinburne 2018\Programming\TeamProjectNew\EWallet\EWallet\obj\Debug\EWallet.Properties.Resources.resources
+F:\Swinburne 2018\Programming\TeamProjectNew\EWallet\EWallet\obj\Debug\EWallet.csproj.GenerateResource.cache
+F:\Swinburne 2018\Programming\TeamProjectNew\EWallet\EWallet\obj\Debug\EWallet.csproj.CoreCompileInputs.cache
+F:\Swinburne 2018\Programming\TeamProjectNew\EWallet\EWallet\obj\Debug\EWallet.exe
+F:\Swinburne 2018\Programming\TeamProjectNew\EWallet\EWallet\obj\Debug\EWallet.pdb
+F:\Swinburne 2018\Programming\TeamProjectNew\EWallet\EWallet\obj\Debug\App.baml
+F:\Swinburne 2018\Programming\TeamProjectNew\EWallet\EWallet\obj\Debug\EWalletManageAcc.g.cs
+F:\Swinburne 2018\Programming\TeamProjectNew\EWallet\EWallet\obj\Debug\EWalletManageAcc.baml
+F:\Swinburne 2018\Programming\TeamProjectNew\EWallet\EWallet\obj\Debug\EWalletCreateAccount.g.cs
+F:\Swinburne 2018\Programming\TeamProjectNew\EWallet\EWallet\obj\Debug\EWalletCreateAccount.baml
+F:\Swinburne 2018\Programming\TeamProjectNew\EWallet\EWallet\obj\Debug\EWalletCreateAdmin.g.cs
+F:\Swinburne 2018\Programming\TeamProjectNew\EWallet\EWallet\obj\Debug\EWalletCreateAdmin.baml
+C:\Users\User\Desktop\EWallet\EWallet\bin\Debug\EWallet.exe.config
+C:\Users\User\Desktop\EWallet\EWallet\bin\Debug\EWallet.exe
+C:\Users\User\Desktop\EWallet\EWallet\bin\Debug\EWallet.pdb
+C:\Users\User\Desktop\EWallet\EWallet\obj\Debug\EWallet.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\EWallet\EWallet\obj\Debug\EWalletCreateAccount.g.cs
+C:\Users\User\Desktop\EWallet\EWallet\obj\Debug\EWalletCreateAdmin.g.cs
+C:\Users\User\Desktop\EWallet\EWallet\obj\Debug\EWalletHome.g.cs
+C:\Users\User\Desktop\EWallet\EWallet\obj\Debug\EWalletLogin.g.cs
+C:\Users\User\Desktop\EWallet\EWallet\obj\Debug\EWalletManageAcc.g.cs
+C:\Users\User\Desktop\EWallet\EWallet\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\EWallet\EWallet\obj\Debug\App.g.cs
+C:\Users\User\Desktop\EWallet\EWallet\obj\Debug\EWallet_MarkupCompile.cache
+C:\Users\User\Desktop\EWallet\EWallet\obj\Debug\EWallet_MarkupCompile.lref
+C:\Users\User\Desktop\EWallet\EWallet\obj\Debug\App.baml
+C:\Users\User\Desktop\EWallet\EWallet\obj\Debug\EWalletCreateAccount.baml
+C:\Users\User\Desktop\EWallet\EWallet\obj\Debug\EWalletCreateAdmin.baml
+C:\Users\User\Desktop\EWallet\EWallet\obj\Debug\EWalletHome.baml
+C:\Users\User\Desktop\EWallet\EWallet\obj\Debug\EWalletLogin.baml
+C:\Users\User\Desktop\EWallet\EWallet\obj\Debug\EWalletManageAcc.baml
+C:\Users\User\Desktop\EWallet\EWallet\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\EWallet\EWallet\obj\Debug\EWallet.g.resources
+C:\Users\User\Desktop\EWallet\EWallet\obj\Debug\EWallet.Properties.Resources.resources
+C:\Users\User\Desktop\EWallet\EWallet\obj\Debug\EWallet.csproj.GenerateResource.cache
+C:\Users\User\Desktop\EWallet\EWallet\obj\Debug\EWallet.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\EWallet\EWallet\obj\Debug\EWallet.exe
+C:\Users\User\Desktop\EWallet\EWallet\obj\Debug\EWallet.pdb
+C:\Users\STUDENT\Desktop\EWallet\EWallet\bin\Debug\EWallet.exe.config
+C:\Users\STUDENT\Desktop\EWallet\EWallet\bin\Debug\EWallet.exe
+C:\Users\STUDENT\Desktop\EWallet\EWallet\bin\Debug\EWallet.pdb
+C:\Users\STUDENT\Desktop\EWallet\EWallet\obj\Debug\EWallet.csprojResolveAssemblyReference.cache
+C:\Users\STUDENT\Desktop\EWallet\EWallet\obj\Debug\EWalletCreateAccount.g.cs
+C:\Users\STUDENT\Desktop\EWallet\EWallet\obj\Debug\EWalletCreateAdmin.g.cs
+C:\Users\STUDENT\Desktop\EWallet\EWallet\obj\Debug\EWalletHome.g.cs
+C:\Users\STUDENT\Desktop\EWallet\EWallet\obj\Debug\EWalletLogin.g.cs
+C:\Users\STUDENT\Desktop\EWallet\EWallet\obj\Debug\EWalletManageAcc.g.cs
+C:\Users\STUDENT\Desktop\EWallet\EWallet\obj\Debug\MainWindow.g.cs
+C:\Users\STUDENT\Desktop\EWallet\EWallet\obj\Debug\App.g.cs
+C:\Users\STUDENT\Desktop\EWallet\EWallet\obj\Debug\EWallet_MarkupCompile.cache
+C:\Users\STUDENT\Desktop\EWallet\EWallet\obj\Debug\EWallet_MarkupCompile.lref
+C:\Users\STUDENT\Desktop\EWallet\EWallet\obj\Debug\App.baml
+C:\Users\STUDENT\Desktop\EWallet\EWallet\obj\Debug\EWalletCreateAccount.baml
+C:\Users\STUDENT\Desktop\EWallet\EWallet\obj\Debug\EWalletCreateAdmin.baml
+C:\Users\STUDENT\Desktop\EWallet\EWallet\obj\Debug\EWalletHome.baml
+C:\Users\STUDENT\Desktop\EWallet\EWallet\obj\Debug\EWalletLogin.baml
+C:\Users\STUDENT\Desktop\EWallet\EWallet\obj\Debug\EWalletManageAcc.baml
+C:\Users\STUDENT\Desktop\EWallet\EWallet\obj\Debug\MainWindow.baml
+C:\Users\STUDENT\Desktop\EWallet\EWallet\obj\Debug\EWallet.g.resources
+C:\Users\STUDENT\Desktop\EWallet\EWallet\obj\Debug\EWallet.Properties.Resources.resources
+C:\Users\STUDENT\Desktop\EWallet\EWallet\obj\Debug\EWallet.csproj.GenerateResource.cache
+C:\Users\STUDENT\Desktop\EWallet\EWallet\obj\Debug\EWallet.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT\Desktop\EWallet\EWallet\obj\Debug\EWallet.exe
+C:\Users\STUDENT\Desktop\EWallet\EWallet\obj\Debug\EWallet.pdb
+C:\Users\STUDENT\Desktop\EWallet\EWallet\bin\Debug\EWallet_ClassLibrary.dll
+C:\Users\STUDENT\Desktop\EWallet\EWallet\bin\Debug\EWallet_ClassLibrary.pdb
+C:\Users\STUDENT\Desktop\EWallet\EWallet\obj\Debug\EWallet.csproj.CopyComplete

@@ -1,0 +1,6 @@
+C:\Users\STUDENT\Desktop\EWallet\EWallet_ClassLibrary\obj\Debug\EWallet_ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\STUDENT\Desktop\EWallet\EWallet_ClassLibrary\obj\Debug\EWallet_ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT\Desktop\EWallet\EWallet_ClassLibrary\bin\Debug\EWallet_ClassLibrary.dll
+C:\Users\STUDENT\Desktop\EWallet\EWallet_ClassLibrary\bin\Debug\EWallet_ClassLibrary.pdb
+C:\Users\STUDENT\Desktop\EWallet\EWallet_ClassLibrary\obj\Debug\EWallet_ClassLibrary.dll
+C:\Users\STUDENT\Desktop\EWallet\EWallet_ClassLibrary\obj\Debug\EWallet_ClassLibrary.pdb

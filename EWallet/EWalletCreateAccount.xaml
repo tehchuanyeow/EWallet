@@ -1,0 +1,28 @@
+﻿<Page x:Class="EWallet.EWalletCreateAccount"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:EWallet"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800" Background="Ivory"
+      Title="E-Wallet - CreateAccount">
+
+    <Grid>
+        <StackPanel> 
+            <Label Grid.Column="1" Margin="116,68,113,10" FontSize="25">Select Account Type</Label>
+             <RadioButton x:Name="adminButton" Grid.Column="1" Grid.Row="1" FontSize="20" 
+                          VerticalAlignment="Center" HorizontalAlignment="Left" Margin="160,0,226,0" 
+                          Width="76" Checked="adminButton_Checked">Admin</RadioButton>
+             <RadioButton x:Name="clientButton" Grid.Column="1" Grid.Row="2" FontSize="20" 
+                          VerticalAlignment="Center" HorizontalAlignment="Left" Margin="160,0,228,0" 
+                          Width="70" Checked="clientButton_Checked">Client</RadioButton>
+             <RadioButton x:Name="projectButton" Grid.Column="1" Grid.Row="3" FontSize="20" 
+                          VerticalAlignment="Center" HorizontalAlignment="Left" Margin="160,0,224,0" 
+                          Width="80" Checked="projectButton_Checked">Project</RadioButton>
+             <RadioButton x:Name="resourceButton" Grid.Column="1" Grid.Row="4" FontSize="20" 
+                          VerticalAlignment="Center" HorizontalAlignment="Left" Margin="160,0,214,0" 
+                          Width="100" Checked="resourceButton_Checked">Resource</RadioButton>
+        </StackPanel>
+    </Grid>
+</Page>

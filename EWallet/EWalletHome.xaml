@@ -1,0 +1,41 @@
+﻿<Page x:Class="EWallet.EWalletHome"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:EWallet"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800" Background="Ivory"
+      Title="EWalletHomePage">
+
+    <Grid>
+        <Grid.RowDefinitions >
+            <RowDefinition Height="215*" />
+            <RowDefinition Height="77*" />
+            <RowDefinition Height="77*" />
+            <RowDefinition Height="77*" />
+        </Grid.RowDefinitions>
+
+
+        <Border BorderThickness="1" Grid.Row="0"
+                     CornerRadius="30,30,30,30" BorderBrush="Black" Background="AliceBlue" Margin="110,179,182,16" Grid.RowSpan="4"/>
+        <TextBlock x:Name="Logo" Grid.Row="0" 
+                   VerticalAlignment="Top" HorizontalAlignment="Left" 
+                   FontSize="60" FontFamily="Trebuchet MS"  FontWeight="ExtraBold" 
+                   Margin="25,16,0,0" Height="73" Width="247">E-Wallet</TextBlock>
+        <Image HorizontalAlignment="Right" Source="Resource\Logo.jpg" Margin="0,20,20,68" Width="154"/>
+
+        <TextBlock Grid.Row="1" x:Name="username"  FontSize="20" 
+                   Margin="236,14,452,22" Height="45" >Username</TextBlock>
+        <TextBox Grid.Row="1" x:Name="usernameTextBox" 
+                   FontWeight="Bold" BorderBrush="Black" Margin="352,10,257,22"/>
+        <!--Text="{Binding UserName}"  NOT DONE -->
+        <TextBlock Grid.Row="2" x:Name="password" FontSize="20" 
+                   Margin="242,14,462,22" Height="45" >Password</TextBlock>
+        <TextBox Grid.Row="2" x:Name="passwordTextBox" FontWeight="Bold" BorderBrush="Black" Margin="352,10,257,22"/>
+        <!--Text="{Binding Password}"  NOT DONE -->
+
+        <Button Grid.Row="3" x:Name="LoginButton" Content="Log in"  BorderThickness="1" FontSize="20" FontWeight="Bold" Margin="445,0,257,32" 
+                Click="LoginButton_Click"/>
+    </Grid>
+</Page>
