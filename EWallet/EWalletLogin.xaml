@@ -6,29 +6,38 @@
       xmlns:local="clr-namespace:EWallet"
       mc:Ignorable="d" 
       d:DesignHeight="450" d:DesignWidth="800" Background="Ivory"
-      Title="E-Wallet - Login Page">
+      Title="EWallet Login ">
 
-    <Grid >
-        <Grid.RowDefinitions>
-            <RowDefinition  Height="150*"/>
-            <RowDefinition Height="77*"/>
-            <RowDefinition Height="77*"/>
+    <Grid>
+        <Grid.RowDefinitions >
+            <RowDefinition Height="215*" />
+            <RowDefinition Height="77*" />
+            <RowDefinition Height="77*" />
             <RowDefinition Height="77*" />
         </Grid.RowDefinitions>
 
-        <TextBlock Grid.Row="0" x:Name="welcome" Text="Welcome" FontSize="30" Margin="34,26,347,93" />
-        <TextBox Grid.Row="0" FontSize="40" Margin="91,26,512,150" />
-        <Button Grid.Row="0"  x:Name="logoutButton" HorizontalAlignment="Right" 
-                FontSize="25" Content="LogOut" Background="Gray" Margin="0,47,39,68" 
-                Width="140" Click="logoutButton_Click"/>
-        <Button Grid.Row="1" x:Name="manageAccountButton"  HorizontalAlignment="Left"
-                FontSize="25" Content="Manage Account" Width="210" Margin="20,0,0,20" 
-                Background="GreenYellow" Click="manageAccount_Click"/>
-        <Button Grid.Row="2" x:Name="manageWalletButton" HorizontalAlignment="Left" 
-                FontSize="25" Content="Manage Wallet" Width="210" Margin="20,0,279,20" 
-                Background="GreenYellow" Click="manageWalletButton_Click" />
-        <Button Grid.Row="3" x:Name="manageInvoiceButton" HorizontalAlignment="Left" 
-                FontSize="25" Content="Manage Invoice"  Width="210" Margin="20,0,0,20" 
-                Background="GreenYellow" Click="manageInvoiceButton_Click" />
+
+        <Border BorderThickness="1" Grid.Row="0"
+                     CornerRadius="30,30,30,30" BorderBrush="Black" Background="AliceBlue" Margin="110,179,182,16" Grid.RowSpan="4"/>
+        <TextBlock x:Name="Logo" Grid.Row="0" 
+                   VerticalAlignment="Top" HorizontalAlignment="Left" 
+                   FontSize="60" FontFamily="Trebuchet MS"  FontWeight="ExtraBold" 
+                   Margin="25,16,0,0" Height="73" Width="247">E-Wallet</TextBlock>
+        <Image HorizontalAlignment="Right" Source="Resource\Logo.jpg" Margin="0,20,20,68" Width="154"/>
+
+        <TextBlock Grid.Row="1" x:Name="username"  FontSize="20"
+                  VerticalAlignment="Center" Margin="200,0,0,0" Height="45" >Username</TextBlock>
+        <TextBox Grid.Row="1" x:Name="usernameTextBox" 
+                 FontWeight="Bold" VerticalAlignment="Center" Width="200" 
+                 Height="45" BorderBrush="Black" />
+        <!--Text="{Binding UserName}"  NOT DONE -->
+        <TextBlock Grid.Row="2" x:Name="password" FontSize="20"
+                   VerticalAlignment="Center" Margin="200,0" Height="45" >Password</TextBlock>
+        <TextBox Grid.Row="2" x:Name="passwordTextBox"  FontWeight="Bold" VerticalAlignment="Center" Width="200" 
+                 Height="45" BorderBrush="Black" />
+        <!--Text="{Binding Password}"  NOT DONE -->
+
+        <Button Grid.Row="3" x:Name="LoginButton" Content="Log in"  BorderThickness="1" FontSize="20" FontWeight="Bold" Margin="445,0,257,32" 
+                Click="LoginButton_Click"/>
     </Grid>
 </Page>

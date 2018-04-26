@@ -12,38 +12,52 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
-using EWallet_ClassLibrary;
 
 namespace EWallet
 {
     /// <summary>
-    /// Interaction logic for EWalletHomePage.xaml
+    /// Interaction logic for EWalletHome.xaml
     /// </summary>
     public partial class EWalletHome : Page
     {
         public EWalletHome()
         {
             InitializeComponent();
+            string userType = "Adrian!";
+            Welcome(userType);
         }
 
-        private void LoginButton_Click(object sender, RoutedEventArgs e)
-        {
-            
 
-            Uri uri = new Uri("EWalletLogin.xaml", UriKind.Relative);
+        private void logoutButton_Click(object sender, RoutedEventArgs e)
+        {
+            EWalletLogin ewalletLogin = new EWalletLogin();
+            NavigationService.Navigate(ewalletLogin);
+            //Uri uri = new Uri("EWalletManageAcc.xaml", UriKind.Relative);
+            //this.NavigationService.Navigate(uri);
+
+        }
+
+        private void manageAccount_Click(object sender, RoutedEventArgs e)
+        {
+            Uri uri = new Uri("EWalletManageAcc.xaml", UriKind.Relative);
             this.NavigationService.Navigate(uri);
         }
+
+      
+        private void manageWalletButton_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void manageInvoiceButton_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void Welcome(string userType)
+        {
+            welcome.Inlines.Add(", " + userType);
+        }
+
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-

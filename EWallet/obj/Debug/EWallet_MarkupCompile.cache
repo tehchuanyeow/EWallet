@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\STUDENT\Desktop\EWallet\EWallet\obj\Debug\
+C:\Users\katya\Source\Repos\EWallet\EWallet\obj\Debug\
 EWallet
 none
 false
 DEBUG;TRACE
-C:\Users\STUDENT\Desktop\EWallet\EWallet\App.xaml
-6-743325123
+C:\Users\katya\Source\Repos\EWallet\EWallet\App.xaml
+6554473461
 
-10-766669551
-14-1243427970
-EWalletCreateAccount.xaml;EWalletCreateAdmin.xaml;EWalletHome.xaml;EWalletLogin.xaml;EWalletManageAcc.xaml;MainWindow.xaml;
+101514219175
+14-1258463271
+EWalletSelectAccount.xaml;EWalletCreateAdmin.xaml;EWalletHome.xaml;EWalletLogin.xaml;EWalletManageAcc.xaml;MainWindow.xaml;
 
 False
 

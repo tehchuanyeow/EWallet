@@ -27,7 +27,7 @@ namespace EWallet
 
         private void createButton_Click(object sender, RoutedEventArgs e)
         {
-            frame1.Content = new EWalletCreateAccount();
+            frame1.Content = new EWalletSelectAccount();
             //Uri uri = new Uri("EWalletCreateAccount.xaml", UriKind.Relative);
             //this.NavigationService.Navigate(uri);
 

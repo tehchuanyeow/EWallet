@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-E:\Uni\Diploma\GitRepo\EWallet\EWallet\obj\Release\
+C:\Users\katya\Source\Repos\EWallet\EWallet\obj\Release\
 EWallet
 none
 false
 TRACE
-E:\Uni\Diploma\GitRepo\EWallet\EWallet\App.xaml
-6-743325123
+C:\Users\katya\Source\Repos\EWallet\EWallet\App.xaml
+6554473461
 
-10-766669551
-141936340746
-EWalletCreateAccount.xaml;EWalletCreateAdmin.xaml;EWalletHome.xaml;EWalletLogin.xaml;EWalletManageAcc.xaml;MainWindow.xaml;
+101514219175
+141181271632
+EWalletSelectAccount.xaml;EWalletCreateAdmin.xaml;EWalletHome.xaml;EWalletLogin.xaml;EWalletManageAcc.xaml;MainWindow.xaml;
 
 True
 

@@ -32,7 +32,7 @@
             <Button x:Name="searchButton" Grid.Column="0" Grid.Row="3" Content="Search" Background="GreenYellow"  FontSize="20" Click="searchButton_Click" Margin="84,7,32,7" Height="30"/>
             <Button x:Name="deleteButton" Grid.Column="0" Grid.Row="4"  Content="Delete" Background="GreenYellow"  FontSize="20" Click="deleteButton_Click" Margin="84,7,32,8" Height="30"/>
         </StackPanel>
-        <Frame x:Name="frame1" BorderThickness="3" BorderBrush="Aquamarine"  Margin="5,16,36,12" Grid.RowSpan="6" Grid.Column="1"/>
+        <Frame x:Name="frame1" BorderThickness="3" BorderBrush="GreenYellow"  Margin="5,16,36,12" Grid.RowSpan="6" Grid.Column="1"/>
 
     </Grid>
 </Page>
